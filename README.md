@@ -6,7 +6,7 @@ I build **reliable, production-oriented AI systems** across RAG, retrieval engin
 
 My work focuses on turning AI models into usable systems — with **retrieval quality, evidence grounding, evaluation, observability, APIs, and controlled workflow execution** built into the engineering process.
 
----
+
 
 ## What I Build
 
@@ -25,7 +25,7 @@ FastAPI services, REST APIs, PostgreSQL, SQLAlchemy, data pipelines, authenticat
 🚀 **Production Engineering**  
 Docker, testing, observability, evaluation pipelines, reproducibility, and deployment-oriented system design.
 
----
+
 
 ## Featured Engineering Work
 
@@ -46,7 +46,7 @@ Production-oriented retrieval system combining:
 
 → [Repository](https://github.com/Eklakh-AI-Engineer/ENTERPRISE-RAG)
 
----
+
 
 ### 🧾 TaxTrace
 
@@ -64,7 +64,7 @@ AI-assisted tax compliance and execution platform designed around:
 
 → [Repository](https://github.com/Eklakh-AI-Engineer/TaxTrace)
 
----
+
 
 ### 🤖 APX — Accounts Payable Exception Resolution
 
@@ -85,7 +85,7 @@ The architecture emphasizes:
 
 → [Repository](https://github.com/Eklakh-AI-Engineer/APX-Autonomous-Accounts-Payable-Exception-Resolution-Agent)
 
----
+
 
 ### 🧠 AI Job Agent
 
@@ -101,7 +101,7 @@ Autonomous job-intelligence workflow covering:
 
 → [Repository](https://github.com/Eklakh-AI-Engineer/AI-Job-Agent)
 
----
+
 
 ## Engineering Organizations
 
@@ -117,7 +117,7 @@ Applied machine learning, statistical analysis, predictive modeling, experimenta
 
 Backend systems, APIs, databases, full-stack applications, and general software engineering.
 
----
+
 
 ## Technical Stack
 
@@ -151,7 +151,7 @@ Backend systems, APIs, databases, full-stack applications, and general software 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+
 
 ## Engineering Principles
 
@@ -165,7 +165,7 @@ I care about the parts of AI systems that are easy to overlook:
 - **Small, testable system components**
 - **Reproducible engineering over one-off demos**
 
----
+
 
 ## Current Direction
 
@@ -175,7 +175,7 @@ Currently focused on building deeper expertise in:
 
 I am particularly interested in opportunities involving **AI/ML engineering, backend engineering, intelligent automation, RAG systems, and applied AI**.
 
----
+
 
 ## Connect
 
@@ -184,7 +184,7 @@ I am particularly interested in opportunities involving **AI/ML engineering, bac
 [![Portfolio](https://img.shields.io/badge/Portfolio-eklakhdewan.com.np-111827?style=for-the-badge)](https://eklakhdewan.com.np)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eklakh.inplace@gmail.com)
 
----
+
 
 ## GitHub Activity
 
@@ -197,7 +197,7 @@ I am particularly interested in opportunities involving **AI/ML engineering, bac
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=eklakh-dewan&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
----
+
 
 <p align="center">
   <sub>Building AI systems with evidence, evaluation, and engineering discipline.</sub>
