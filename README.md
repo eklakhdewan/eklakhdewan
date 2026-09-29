@@ -6,8 +6,6 @@ I build **reliable, production-oriented AI systems** across RAG, retrieval engin
 
 My work focuses on turning AI models into usable systems — with **retrieval quality, evidence grounding, evaluation, observability, APIs, and controlled workflow execution** built into the engineering process.
 
-
-
 ## What I Build
 
 🔎 **RAG & Retrieval Systems**  
