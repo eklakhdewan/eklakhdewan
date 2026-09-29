@@ -1,21 +1,204 @@
-# 💫 About Me:
-Building AI that explains itself.<br>AI Engineer & Data Science undergrad focused on agentic LLM workflows, explainable ML, and NLP — turning research-grade models into production systems people can actually trust. I work end-to-end: data pipelines, FastAPI services, Docker deployments, and the agent orchestration layer that ties it together.<br>Currently exploring multi-agent orchestration. Open to AI/ML internships and collaborations on serious, production-minded AI tooling.
+# Eklakh Dewan
 
+### AI Systems Engineer · AI & Data Science
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eklakhdewan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eklakh-dewan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eklakhdewan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eklakh.inplace@gmail.com) 
+I build **reliable, production-oriented AI systems** across RAG, retrieval engineering, agentic workflows, NLP, and backend engineering.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=eklakh-dewan&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=eklakh-dewan&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=eklakh-dewan&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eklakh-dewan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My work focuses on turning AI models into usable systems — with **retrieval quality, evidence grounding, evaluation, observability, APIs, and controlled workflow execution** built into the engineering process.
 
 ---
-[![](https://komarev.com/ghpvc/?username=eklakh-dewan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Build
+
+🔎 **RAG & Retrieval Systems**  
+Dense retrieval, BM25, hybrid search, reranking, embeddings, citation mapping, and evidence-grounded generation.
+
+🤖 **Agentic AI & Automation**  
+Stateful workflows, decision pipelines, tool-driven agents, exception handling, and human-in-the-loop execution.
+
+🧾 **Applied AI Systems**  
+AI-assisted compliance, financial automation, job intelligence, recommendation systems, and NLP applications.
+
+⚙️ **Backend Systems**  
+FastAPI services, REST APIs, PostgreSQL, SQLAlchemy, data pipelines, authentication, and application architecture.
+
+🚀 **Production Engineering**  
+Docker, testing, observability, evaluation pipelines, reproducibility, and deployment-oriented system design.
+
+---
+
+## Featured Engineering Work
+
+### 🔎 Enterprise RAG
+
+Production-oriented retrieval system combining:
+
+- Dense retrieval
+- BM25
+- Hybrid search
+- Cross-encoder reranking
+- Evidence-grounded generation
+- Citation validation
+- Retrieval evaluation
+- Pipeline observability
+
+**Stack:** Python · FastAPI · FAISS · BM25 · SentenceTransformers · React · LLM APIs
+
+→ [Repository](https://github.com/Eklakh-AI-Engineer/ENTERPRISE-RAG)
+
+---
+
+### 🧾 TaxTrace
+
+AI-assisted tax compliance and execution platform designed around:
+
+- GST reconciliation
+- Exception review
+- Evidence and provenance
+- Notice analysis
+- Draft generation
+- Human approval workflows
+- Structured compliance operations
+
+**Stack:** FastAPI · Next.js · TypeScript · PostgreSQL · SQLAlchemy · React Query · Tailwind CSS · Alembic
+
+→ [Repository](https://github.com/Eklakh-AI-Engineer/TaxTrace)
+
+---
+
+### 🤖 APX — Accounts Payable Exception Resolution
+
+Evidence-grounded financial automation system for investigating and resolving accounts-payable exceptions.
+
+The architecture emphasizes:
+
+- Deterministic validation
+- Hybrid evidence retrieval
+- Reranking
+- Risk policies
+- Decision pipelines
+- Approval boundaries
+- Persistence
+- Idempotency
+- Observability
+- Security
+
+→ [Repository](https://github.com/Eklakh-AI-Engineer/APX-Autonomous-Accounts-Payable-Exception-Resolution-Agent)
+
+---
+
+### 🧠 AI Job Agent
+
+Autonomous job-intelligence workflow covering:
+
+- Job discovery
+- Normalization
+- Deduplication
+- Candidate-job matching
+- Evaluation
+- Recommendation
+- Application workflow preparation
+
+→ [Repository](https://github.com/Eklakh-AI-Engineer/AI-Job-Agent)
+
+---
+
+## Engineering Organizations
+
+### [Eklakh AI Engineering](https://github.com/Eklakh-AI-Engineer)
+
+RAG systems, agentic AI, intelligent automation, evidence-grounded workflows, and applied AI engineering.
+
+### [Eklakh ML Engineering](https://github.com/Eklakh-ML-Engineering)
+
+Applied machine learning, statistical analysis, predictive modeling, experimentation, and data-driven modeling.
+
+### [Eklakh Software Engineering](https://github.com/Eklakh-Software-Engineering)
+
+Backend systems, APIs, databases, full-stack applications, and general software engineering.
+
+---
+
+## Technical Stack
+
+### AI / ML
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1F6FEB?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval-111827?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-AI%20Applications-111827?style=for-the-badge)
+
+### Backend & Data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge)
+
+### Frontend & Application
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Engineering & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## Engineering Principles
+
+I care about the parts of AI systems that are easy to overlook:
+
+- **Evidence over unsupported generation**
+- **Evaluation over arbitrary claims**
+- **Deterministic components where deterministic logic is possible**
+- **Human approval at consequential decision boundaries**
+- **Observable pipelines instead of black boxes**
+- **Small, testable system components**
+- **Reproducible engineering over one-off demos**
+
+---
+
+## Current Direction
+
+Currently focused on building deeper expertise in:
+
+**Retrieval Engineering → Agentic Systems → Backend Architecture → Production AI**
+
+I am particularly interested in opportunities involving **AI/ML engineering, backend engineering, intelligent automation, RAG systems, and applied AI**.
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eklakhdewan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eklakh-dewan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eklakhdewan.com.np-111827?style=for-the-badge)](https://eklakhdewan.com.np)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eklakh.inplace@gmail.com)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=eklakh-dewan&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=eklakh-dewan&theme=cobalt&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=eklakh-dewan&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Building AI systems with evidence, evaluation, and engineering discipline.</sub>
+</p>
